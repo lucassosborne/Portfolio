@@ -10,19 +10,19 @@ This is a project made in Python, using the online software _Replit_. This calcu
 - When `selecting an operation`, no error message for when selection is an integer __other than__ 1, 2, 3, and 4.
 
 ## Good Old Games Logo
-This is a concept logo for the imaginary Good Old Games game studio, created in the online graphic design software _Canva_.
+This is a concept logo for the imaginary `Good Old Games` game studio, created in the online graphic design software _Canva_.
 
 ## Good Old Games Poster
-This is a concept poster for the imaginary Good Old Games game studio, designed in the online software _Canva_.
+This is a concept poster for the imaginary `Good Old Games` game studio, designed in the online software _Canva_.
 
 ## Project Management Cert
-This is a certificate of completion for _Pinnguaq Association_'s `Project Management` Course.
+This is a certificate of completion for _Pinnguaq Association_'s `Introduction to Project Management` Course.
 
 ## Social Media Cert
-This is a certificate of completion for _Pinnguaq Association_'s `Social Media for Small Businesses` Course.
+This is a certificate of completion for _Pinnguaq Association_'s `Introduction to Social Media for Small Business` Course.
 
 ## 6 Sided Dice
-This is a __6 sided die__ modeled in the online `Computer Aided Design` software _Onshape_.
+This is a __6 sided die__ modeled in the online Computer Aided Design software _Onshape_.
 
 ## Moose Lou in: Broccoli Blues
 This is concept box art, designed in the online software _Canva_. The art was designed for the game I made in Microsoft's _MakeCode Arcade_ software, `Moose Lou in: Broccoli Blues`, which can be played [here](https://arcade.makecode.com/S49775-54866-49387-50429).
